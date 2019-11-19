@@ -1,0 +1,4 @@
+C:/Users/Momo/source/repos/Cpractice/CMakeFiles/Cpractice.dir
+C:/Users/Momo/source/repos/Cpractice/CMakeFiles/ALL_BUILD.dir
+C:/Users/Momo/source/repos/Cpractice/CMakeFiles/ZERO_CHECK.dir
+C:/Users/Momo/source/repos/Cpractice/DSpractice/CMakeFiles/DSpractice.dir
